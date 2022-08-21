@@ -2,6 +2,8 @@
 
 # UniMitr Web Application
 
+</div>
+
 ## Steps to run the React Application in local
 
 1. Clone this repo.
